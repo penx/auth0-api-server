@@ -1,0 +1,17 @@
+{
+  "name": "auth0-timesheet-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.94.0",
+    "body-parser": "^1.17.2",
+    "express-jwt-authz": "^1.0.0"
+  }
+}
