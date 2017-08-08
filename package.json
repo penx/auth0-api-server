@@ -12,6 +12,9 @@
   "dependencies": {
     "aws-sdk": "^2.94.0",
     "body-parser": "^1.17.2",
-    "express-jwt-authz": "^1.0.0"
+    "express": "^4.15.4",
+    "express-jwt": "^5.3.0",
+    "express-jwt-authz": "^1.0.0",
+    "jwks-rsa": "^1.2.0"
   }
 }
